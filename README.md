@@ -1,6 +1,6 @@
 # Manejo de Excepciones y Funciones Lambda en Python
 
-Este repositorio contiene dos archivos `ypynb` que abordan dos conceptos fundamentales de Python: el manejo de excepciones utilizando los bloques `try`, `except`, `else` y `finally`, y las funciones `lambda`.
+Este repositorio contiene dos archivos `ipynb` que abordan dos conceptos fundamentales de Python: el manejo de excepciones utilizando los bloques `try`, `except`, `else` y `finally`, y las funciones `lambda`.
 
 ## Manejo de Excepciones en Python
 
