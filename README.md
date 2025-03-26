@@ -20,7 +20,7 @@ En Python, los bloques `try`, `except`, `else` y `finally` son herramientas esen
 
 Los conceptos de manejo de excepciones permiten hacer que el programa sea más robusto y predecible, gestionando errores de manera eficaz y asegurando que ciertos procesos se realicen siempre.
 
-Puedes encontrar ejemplos y explicaciones de estos bloques en el archivo `Manejo_de_Excepciones.ipynb`.
+Puedes encontrar ejemplos y explicaciones de estos bloques en los archivos dentro de la carpeta `exceptions`.
 
 ## Funciones Lambda en Python
 
@@ -38,11 +38,13 @@ suma = lambda a, b: a + b
 print(suma(5, 3))  # Salida: 8
 ```
 
+Puedes encontrar ejemplos y explicaciones de estos bloques en los archivos dentro de la carpeta `funciones_lambda`.
+
 ## 🚀 Cómo Usar Este Repositorio
 
 1. **Clona el repositorio** en tu máquina:
    ```bash
-   git clone (https://github.com/gabykap29/tlp3_py_introduction.git)
+   git clone (https://github.com/gabykap29/tlp3_exceptions_py.git)
    ```
 2. **Abre Visual Studio Code con la extension instalada de Jupiter Notebook** y explora los ejemplos:
    ```bash
